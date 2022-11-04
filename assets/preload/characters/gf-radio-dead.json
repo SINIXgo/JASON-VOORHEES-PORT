@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				774,
+				721
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "GF dies"
+		},
+		{
+			"offsets": [
+				400,
+				550
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GF dead loop"
+		},
+		{
+			"offsets": [
+				400,
+				550
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GF dead confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GF_Radio_Game_over",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf-scared",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		2,
+		79
+	],
+	"camera_position": [
+		150,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

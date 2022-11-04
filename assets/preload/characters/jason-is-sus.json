@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-330,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-656,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JSingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-624,
+				221
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JSingUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-285,
+				-28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JSingRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-262,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "JSingLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jasus_assets",
+	"position": [
+		-520,
+		250
+	],
+	"healthicon": "jasus",
+	"flip_x": false,
+	"healthbar_colors": [
+		27,
+		25,
+		45
+	],
+	"camera_position": [
+		210,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

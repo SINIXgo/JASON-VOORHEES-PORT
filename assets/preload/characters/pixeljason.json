@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JasonPixel Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JasonPixel Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JasonPixel Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JasonPixel Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JasonPixel Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/JasonPixel",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "JasonPixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		232,
+		216
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

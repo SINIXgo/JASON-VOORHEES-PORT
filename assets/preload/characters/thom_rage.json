@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Thom Rage Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Thom rage Left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-122
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Thom Rage Down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Thom Rage Right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Thom Rage Up note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Thom_rage_assets",
+	"position": [
+		80,
+		200
+	],
+	"healthicon": "thom",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		30,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

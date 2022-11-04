@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jason Voorhees Idle dance"
+		},
+		{
+			"offsets": [
+				78,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jason Voorhees Left note"
+		},
+		{
+			"offsets": [
+				14,
+				-197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jason Voorhees Down note"
+		},
+		{
+			"offsets": [
+				42,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jason Voorhees Up note"
+		},
+		{
+			"offsets": [
+				-58,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jason Voorhees Right note"
+		},
+		{
+			"offsets": [
+				-15,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "owie",
+			"indices": [],
+			"name": "Jason Voorhees Hit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jason_Assets_2.5",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jason",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		136,
+		0
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

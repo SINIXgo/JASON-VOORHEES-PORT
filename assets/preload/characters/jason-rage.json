@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jason Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jason LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jason DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jason UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jason RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-42
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "Jason SHOOT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jason_rage",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jason-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		136,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
