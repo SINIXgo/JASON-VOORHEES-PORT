@@ -1,0 +1,3 @@
+Set zoom of Game Camera
+Value 1: Value
+Value 2: Duration
