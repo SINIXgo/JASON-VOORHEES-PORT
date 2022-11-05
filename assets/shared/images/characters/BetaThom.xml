@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BetaThom.png"><SubTexture name="BetaThom Idle0000" x="0" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Idle0001" x="516" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Idle0002" x="1032" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Idle0003" x="0" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Idle0004" x="516" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Right0000" x="1032" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Right0001" x="0" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Left0000" x="516" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Left0001" x="1032" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Down0000" x="0" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Down0001" x="516" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Up0000" x="1032" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="BetaThom Up0001" x="0" y="2064" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+</TextureAtlas>

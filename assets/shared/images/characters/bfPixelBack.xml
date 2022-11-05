@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFPixelBack.png">
+<SubTexture name="BFPixelBack Idle0000" x="480" y="0" width="240" height="320" frameX="-128" frameY="-96" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Idle0001" x="720" y="320" width="240" height="304" frameX="-128" frameY="-112" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Idle0002" x="0" y="656" width="240" height="304" frameX="-128" frameY="-112" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Right0000" x="0" y="336" width="240" height="320" frameX="-144" frameY="-96" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Left0000" x="240" y="336" width="240" height="320" frameX="-112" frameY="-96" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Up0000" x="0" y="0" width="240" height="336" frameX="-128" frameY="-80" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Down0000" x="240" y="656" width="240" height="288" frameX="-144" frameY="-128" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Right MISS0000" x="480" y="336" width="240" height="320" frameX="-144" frameY="-96" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Left MISS0000" x="720" y="0" width="240" height="320" frameX="-112" frameY="-96" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Up MISS0000" x="240" y="0" width="240" height="336" frameX="-128" frameY="-80" frameWidth="512" frameHeight="512" />
+<SubTexture name="BFPixelBack Down MISS0000" x="480" y="656" width="240" height="288" frameX="-144" frameY="-128" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

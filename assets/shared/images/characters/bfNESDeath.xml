@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfNESDeath.png"><SubTexture name="bfNESDeath dies0000" x="0" y="0" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0001" x="504" y="0" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0002" x="1008" y="0" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0003" x="0" y="410" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0004" x="504" y="410" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0005" x="1008" y="410" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0006" x="0" y="820" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0007" x="504" y="820" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath dies0008" x="1008" y="820" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath loop0000" x="0" y="1230" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+<SubTexture name="bfNESDeath confirm0000" x="504" y="1230" width="504" height="410" frameX="0" frameY="0" frameWidth="504" frameHeight="410" />
+</TextureAtlas>

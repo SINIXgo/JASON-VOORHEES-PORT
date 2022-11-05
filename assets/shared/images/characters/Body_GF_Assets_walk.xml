@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Body_GF_Assets walk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Body GF NOTE LEFT0000" x="0" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0001" x="0" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0002" x="303" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0003" x="606" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0004" x="606" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0005" x="909" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0006" x="909" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0007" x="1212" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0008" x="1212" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0009" x="1212" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0010" x="1515" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0011" x="1515" y="0" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0012" x="0" y="443" width="303" height="443"/>
+	<SubTexture name="Body GF NOTE LEFT0013" x="0" y="443" width="303" height="443"/>
+	<SubTexture name="Body GF idle dance0000" x="303" y="443" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0001" x="303" y="443" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0002" x="634" y="443" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0003" x="965" y="443" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0004" x="1296" y="443" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0005" x="1627" y="443" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0006" x="0" y="897" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0007" x="331" y="897" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0008" x="331" y="897" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0009" x="331" y="897" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0010" x="662" y="897" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0011" x="662" y="897" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0012" x="993" y="897" width="331" height="454"/>
+	<SubTexture name="Body GF idle dance0013" x="993" y="897" width="331" height="454"/>
+</TextureAtlas>
