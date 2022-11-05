@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marker.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marker0000" x="0" y="0" width="839" height="325"/>
+	<SubTexture name="marker0001" x="0" y="0" width="839" height="325"/>
+	<SubTexture name="marker0002" x="839" y="0" width="839" height="325"/>
+	<SubTexture name="marker0003" x="839" y="0" width="839" height="325"/>
+	<SubTexture name="marker0004" x="0" y="325" width="839" height="325"/>
+	<SubTexture name="marker0005" x="839" y="325" width="839" height="325"/>
+	<SubTexture name="marker0006" x="839" y="325" width="839" height="325"/>
+	<SubTexture name="marker0007" x="839" y="325" width="839" height="325"/>
+	<SubTexture name="marker0008" x="0" y="650" width="839" height="325"/>
+	<SubTexture name="marker0009" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0010" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0011" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0012" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0013" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0014" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0015" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0016" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0017" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0018" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0019" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0020" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0021" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0022" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0023" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0024" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker0025" x="839" y="650" width="839" height="325"/>
+	<SubTexture name="marker no animation0000" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0001" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0002" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0003" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0004" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0005" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0006" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0007" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0008" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0009" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0010" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0011" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0012" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0013" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0014" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0015" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0016" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0017" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0018" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0019" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0020" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0021" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0022" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0023" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0024" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0025" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0026" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0027" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0028" x="0" y="975" width="567" height="325"/>
+	<SubTexture name="marker no animation0029" x="0" y="975" width="567" height="325"/>
+</TextureAtlas>

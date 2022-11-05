@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Start_Screen_Jason_Assets.png">
+<SubTexture name="Pose 10000" x="0" y="0" width="948" height="937" frameX="0" frameY="0" frameWidth="948" frameHeight="937" />
+<SubTexture name="Pose 20000" x="0" y="937" width="1134" height="1031" frameX="0" frameY="0" frameWidth="1134" frameHeight="1031" />
+<SubTexture name="Pose 30000" x="0" y="1968" width="596" height="801" frameX="0" frameY="0" frameWidth="596" frameHeight="801" />
+</TextureAtlas>
