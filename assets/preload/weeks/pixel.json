@@ -1,0 +1,42 @@
+{
+	"storyName": "Pixel Jason",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pixel o matic",
+			"JasonPixel",
+			[
+				0,
+				232,
+				216
+			]
+		],
+		[
+			"pixel penetration",
+			"JasonPixel",
+			[
+				0,
+				232,
+				216
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Pixel Jason",
+	"weekIcon": "JasonPixel"
+}

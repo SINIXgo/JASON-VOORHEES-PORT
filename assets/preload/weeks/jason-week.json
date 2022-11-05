@@ -1,0 +1,69 @@
+{
+	"songs": [
+		[
+			"The Chase",
+			"chase",
+			[
+				90,
+				136,
+				0
+			]
+		],
+		[
+			"Bastard Rush",
+			"jason",
+			[
+				90,
+				136,
+				0
+			]
+		],
+		[
+			"Death In The Corner",
+			"jason",
+			[
+				90,
+				136,
+				0
+			]
+		],
+		[
+			"Final Demise",
+			"jason",
+			[
+				90,
+				136,
+				0
+			]
+		],
+		[
+			"Blammed Knife",
+			"jason-angry",
+			[
+				90,
+				136,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Happy Birthday Jason!",
+	"weekName": "Jason Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial-chase",
+	"startUnlocked": true,
+	"weekIcon": "jason"
+}

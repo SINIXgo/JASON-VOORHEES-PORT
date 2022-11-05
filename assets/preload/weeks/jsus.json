@@ -1,0 +1,42 @@
+{
+	"songs": [
+		[
+			"Bloody Smear",
+			"amongus",
+			[
+				105,
+				0,
+				54
+			]
+		],
+		[
+			"Sus Friday",
+			"jasus",
+			[
+				27,
+				25,
+				45
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Jason's looking sus",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekIcon": "jasus"
+}
