@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BridgeZone.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bridge0000" x="0" y="0" width="2972" height="638"/>
+	<SubTexture name="Bridge0001" x="0" y="0" width="2972" height="638"/>
+	<SubTexture name="Bridge0002" x="0" y="638" width="2972" height="638"/>
+	<SubTexture name="Bridge0003" x="0" y="638" width="2972" height="638"/>
+	<SubTexture name="Bridge0004" x="0" y="1276" width="2972" height="638"/>
+	<SubTexture name="Bridge0005" x="0" y="1276" width="2972" height="638"/>
+	<SubTexture name="Bridge0006" x="0" y="638" width="2972" height="638"/>
+	<SubTexture name="Bridge0007" x="0" y="638" width="2972" height="638"/>
+</TextureAtlas>

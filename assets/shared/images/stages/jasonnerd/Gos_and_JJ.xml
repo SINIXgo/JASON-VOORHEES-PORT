@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gos and JJ.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gos and JJ0000" x="0" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0001" x="0" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0002" x="423" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0003" x="423" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0004" x="846" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0005" x="846" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0006" x="1269" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0007" x="1269" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0008" x="1269" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0009" x="1269" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0010" x="1269" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0011" x="1269" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0012" x="1269" y="0" width="423" height="535"/>
+	<SubTexture name="Gos and JJ0013" x="1269" y="0" width="423" height="535"/>
+</TextureAtlas>

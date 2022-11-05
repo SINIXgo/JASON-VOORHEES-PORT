@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lucio.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lucio0000" x="0" y="0" width="138" height="116"/>
+	<SubTexture name="Lucio0001" x="138" y="0" width="138" height="116"/>
+	<SubTexture name="Lucio0002" x="138" y="0" width="138" height="116"/>
+	<SubTexture name="Lucio0003" x="276" y="0" width="138" height="116"/>
+	<SubTexture name="Lucio0004" x="276" y="0" width="138" height="116"/>
+	<SubTexture name="Lucio0005" x="0" y="116" width="138" height="116"/>
+</TextureAtlas>
