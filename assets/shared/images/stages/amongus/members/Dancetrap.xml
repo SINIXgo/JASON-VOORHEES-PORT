@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dance-trap.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dance trap0000" x="0" y="0" width="383" height="289"/>
+	<SubTexture name="Dance trap0001" x="0" y="0" width="383" height="289"/>
+	<SubTexture name="Dance trap0002" x="383" y="0" width="383" height="289"/>
+	<SubTexture name="Dance trap0003" x="383" y="0" width="383" height="289"/>
+</TextureAtlas>

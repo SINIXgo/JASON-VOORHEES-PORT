@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Theballs.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="The balls0000" x="0" y="0" width="358" height="520"/>
+	<SubTexture name="The balls0001" x="0" y="0" width="358" height="520"/>
+	<SubTexture name="The balls0002" x="358" y="0" width="358" height="520"/>
+	<SubTexture name="The balls0003" x="358" y="0" width="358" height="520"/>
+</TextureAtlas>
