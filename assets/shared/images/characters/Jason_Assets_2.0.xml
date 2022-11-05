@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jason_Assets 2.0.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jason Voorhees Down note0000" x="0" y="0" width="408" height="571" frameX="0" frameY="-14" frameWidth="408" frameHeight="585"/>
+	<SubTexture name="Jason Voorhees Down note0001" x="0" y="0" width="408" height="571" frameX="0" frameY="-14" frameWidth="408" frameHeight="585"/>
+	<SubTexture name="Jason Voorhees Down note0002" x="408" y="0" width="408" height="577" frameX="0" frameY="-8" frameWidth="408" frameHeight="585"/>
+	<SubTexture name="Jason Voorhees Down note0003" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0004" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0005" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0006" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0007" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0008" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0009" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0010" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0011" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0012" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Down note0013" x="816" y="0" width="408" height="585"/>
+	<SubTexture name="Jason Voorhees Hit0000" x="1224" y="0" width="719" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0001" x="1943" y="0" width="479" height="749" frameX="0" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0002" x="2422" y="0" width="479" height="749" frameX="0" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0003" x="2901" y="0" width="462" height="749" frameX="-19" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0004" x="3363" y="0" width="465" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0005" x="0" y="749" width="465" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0006" x="465" y="749" width="465" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0007" x="930" y="749" width="468" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0008" x="1398" y="749" width="477" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0009" x="1875" y="749" width="480" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0010" x="1875" y="749" width="480" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0011" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0012" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0013" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0014" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0015" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0016" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0017" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0018" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0019" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0020" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0021" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0022" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0023" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Hit0024" x="2355" y="749" width="479" height="749" frameX="-15" frameY="0" frameWidth="734" frameHeight="749"/>
+	<SubTexture name="Jason Voorhees Idle dance0000" x="2834" y="749" width="500" height="732" frameX="0" frameY="-12" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0001" x="2834" y="749" width="500" height="732" frameX="0" frameY="-12" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0002" x="3334" y="749" width="487" height="739" frameX="-8" frameY="-5" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0003" x="3334" y="749" width="487" height="739" frameX="-8" frameY="-5" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0004" x="0" y="1498" width="483" height="741" frameX="-14" frameY="-3" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0005" x="0" y="1498" width="483" height="741" frameX="-14" frameY="-3" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0006" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0007" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0008" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0009" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0010" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0011" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0012" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Idle dance0013" x="483" y="1498" width="480" height="744" frameX="-17" frameY="0" frameWidth="500" frameHeight="744"/>
+	<SubTexture name="Jason Voorhees Left note0000" x="963" y="1498" width="522" height="668" frameX="0" frameY="-11" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0001" x="963" y="1498" width="522" height="668" frameX="0" frameY="-11" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0002" x="1485" y="1498" width="521" height="674" frameX="-1" frameY="-5" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0003" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0004" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0005" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0006" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0007" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0008" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0009" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0010" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0011" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0012" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Left note0013" x="2006" y="1498" width="516" height="679" frameX="-7" frameY="0" frameWidth="523" frameHeight="679"/>
+	<SubTexture name="Jason Voorhees Right note0000" x="2522" y="1498" width="465" height="640" frameX="0" frameY="-12" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0001" x="2522" y="1498" width="465" height="640" frameX="0" frameY="-12" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0002" x="2987" y="1498" width="460" height="649" frameX="0" frameY="-3" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0003" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0004" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0005" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0006" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0007" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0008" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0009" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0010" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0011" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0012" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Right note0013" x="3447" y="1498" width="448" height="654" frameX="0" frameY="0" frameWidth="465" frameHeight="654"/>
+	<SubTexture name="Jason Voorhees Up note0000" x="0" y="2242" width="500" height="758" frameX="0" frameY="-5" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0001" x="0" y="2242" width="500" height="758" frameX="0" frameY="-5" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0002" x="500" y="2242" width="490" height="763" frameX="-10" frameY="0" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0003" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0004" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0005" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0006" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0007" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0008" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0009" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0010" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0011" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0012" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+	<SubTexture name="Jason Voorhees Up note0013" x="990" y="2242" width="497" height="761" frameX="-4" frameY="-2" frameWidth="501" frameHeight="763"/>
+</TextureAtlas>

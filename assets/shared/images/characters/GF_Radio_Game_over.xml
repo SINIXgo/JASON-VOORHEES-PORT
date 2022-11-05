@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Radio_Game_over.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF dead confirm0000" x="0" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0001" x="0" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0002" x="688" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0003" x="688" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0004" x="1376" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0005" x="1376" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0006" x="2064" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0007" x="688" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0008" x="1376" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0009" x="1376" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0010" x="688" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0011" x="688" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0012" x="1376" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0013" x="1376" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead confirm0014" x="688" y="0" width="688" height="752"/>
+	<SubTexture name="GF dead loop0000" x="2752" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0001" x="2752" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0002" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0003" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0004" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0005" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0006" x="5032" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0007" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0008" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0009" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0010" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0011" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0012" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0013" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0014" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0015" x="5032" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0016" x="5792" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0017" x="6552" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0018" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0019" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0020" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0021" x="7312" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0022" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0023" x="3512" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0024" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0025" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0026" x="0" y="752" width="760" height="752"/>
+	<SubTexture name="GF dead loop0027" x="0" y="752" width="760" height="752"/>
+	<SubTexture name="GF dead loop0028" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dead loop0029" x="4272" y="0" width="760" height="752"/>
+	<SubTexture name="GF dies0000" x="760" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0001" x="1754" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0002" x="2748" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0003" x="2748" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0004" x="3742" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0005" x="3742" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0006" x="4736" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0007" x="4736" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0008" x="5730" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0009" x="6724" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0010" x="6724" y="752" width="994" height="837"/>
+	<SubTexture name="GF dies0011" x="0" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0012" x="994" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0013" x="1988" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0014" x="2982" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0015" x="3976" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0016" x="4970" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0017" x="5964" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0018" x="6958" y="1589" width="994" height="837"/>
+	<SubTexture name="GF dies0019" x="0" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0020" x="994" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0021" x="994" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0022" x="1988" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0023" x="1988" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0024" x="994" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0025" x="994" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0026" x="1988" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0027" x="1988" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0028" x="994" y="2426" width="994" height="837"/>
+	<SubTexture name="GF dies0029" x="994" y="2426" width="994" height="837"/>
+</TextureAtlas>

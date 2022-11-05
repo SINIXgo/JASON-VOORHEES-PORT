@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jason's runs body.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jason DOWN NOTE0000" x="0" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0001" x="0" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0002" x="465" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0003" x="930" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0004" x="1395" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0005" x="1860" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0006" x="2325" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0007" x="2325" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0008" x="2790" y="0" width="465" height="323"/>
+	<SubTexture name="Jason DOWN NOTE0009" x="2790" y="0" width="465" height="323"/>
+	<SubTexture name="Jason LEFT NOTE0000" x="3255" y="0" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0001" x="3255" y="0" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0002" x="0" y="328" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0003" x="449" y="328" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0004" x="449" y="328" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0005" x="449" y="328" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0006" x="449" y="328" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0007" x="449" y="328" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0008" x="449" y="328" width="449" height="328"/>
+	<SubTexture name="Jason LEFT NOTE0009" x="449" y="328" width="449" height="328"/>
+	<SubTexture name="Jason RIGHT NOTE0000" x="898" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0001" x="898" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0002" x="1378" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0003" x="1858" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0004" x="2338" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0005" x="2818" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0006" x="3298" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0007" x="3298" y="328" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0008" x="0" y="656" width="480" height="321"/>
+	<SubTexture name="Jason RIGHT NOTE0009" x="0" y="656" width="480" height="321"/>
+	<SubTexture name="Jason UP NOTE0000" x="480" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0001" x="480" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0002" x="1023" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0003" x="1566" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0004" x="2109" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0005" x="2652" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0006" x="3195" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0007" x="3195" y="656" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0008" x="0" y="1009" width="543" height="353"/>
+	<SubTexture name="Jason UP NOTE0009" x="0" y="1009" width="543" height="353"/>
+	<SubTexture name="Jason idle dance0000" x="543" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0001" x="543" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0002" x="1027" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0003" x="1027" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0004" x="1511" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0005" x="1995" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0006" x="1995" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0007" x="2479" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0008" x="2479" y="1009" width="484" height="337"/>
+	<SubTexture name="Jason idle dance0009" x="2963" y="1009" width="484" height="337"/>
+</TextureAtlas>

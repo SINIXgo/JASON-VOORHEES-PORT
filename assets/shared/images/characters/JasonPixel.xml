@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JasonPixel.png"><SubTexture name="JasonPixel Idle0000" x="0" y="0" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+<SubTexture name="JasonPixel Idle0001" x="516" y="0" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+<SubTexture name="JasonPixel Idle0002" x="0" y="1028" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+<SubTexture name="JasonPixel Idle0003" x="516" y="1028" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+<SubTexture name="JasonPixel Up0000" x="0" y="2056" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+<SubTexture name="JasonPixel Down0000" x="516" y="2056" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+<SubTexture name="JasonPixel Left0000" x="0" y="3084" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+<SubTexture name="JasonPixel Right0000" x="516" y="3084" width="516" height="1028" frameX="0" frameY="0" frameWidth="516" frameHeight="1028" />
+</TextureAtlas>

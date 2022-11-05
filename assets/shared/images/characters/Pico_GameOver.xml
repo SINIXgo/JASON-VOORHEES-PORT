@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_GameOver.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Dead Loop0000" x="0" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0001" x="553" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0002" x="1106" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0003" x="1659" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0004" x="2212" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0005" x="2765" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0006" x="3318" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0007" x="3871" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0008" x="4424" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0009" x="4977" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead Loop0010" x="5530" y="0" width="553" height="162"/>
+	<SubTexture name="Pico Dead confirm0000" x="6083" y="0" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0001" x="6773" y="0" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0002" x="7463" y="0" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0003" x="0" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0004" x="690" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0005" x="1380" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0006" x="2070" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0007" x="2760" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0008" x="3450" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0009" x="4140" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0010" x="4830" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0011" x="5520" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0012" x="6210" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0013" x="6900" y="444" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0014" x="0" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0015" x="690" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0016" x="1380" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0017" x="2070" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0018" x="2760" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0019" x="3450" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0020" x="4140" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0021" x="4830" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0022" x="5520" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0023" x="6210" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0024" x="6900" y="888" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0025" x="0" y="1332" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0026" x="690" y="1332" width="690" height="444"/>
+	<SubTexture name="Pico Dead confirm0027" x="1380" y="1332" width="690" height="444"/>
+	<SubTexture name="Pico dies0000" x="2070" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0001" x="2070" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0002" x="2070" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0003" x="2070" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0004" x="3391" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0005" x="3391" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0006" x="4712" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0007" x="4712" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0008" x="6033" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0009" x="6033" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0010" x="6033" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0011" x="6033" y="1332" width="1321" height="668"/>
+	<SubTexture name="Pico dies0012" x="0" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0013" x="1321" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0014" x="2642" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0015" x="2642" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0016" x="3963" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0017" x="3963" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0018" x="5284" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0019" x="6605" y="2000" width="1321" height="668"/>
+	<SubTexture name="Pico dies0020" x="0" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0021" x="1321" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0022" x="2642" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0023" x="3963" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0024" x="5284" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0025" x="6605" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0026" x="6605" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0027" x="6605" y="2668" width="1321" height="668"/>
+	<SubTexture name="Pico dies0028" x="6605" y="2668" width="1321" height="668"/>
+</TextureAtlas>
